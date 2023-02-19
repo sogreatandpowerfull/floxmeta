@@ -1,2 +1,1 @@
-# floxmeta-template
-floxmeta repository template
+Personal floxmeta repository. Check branches.
